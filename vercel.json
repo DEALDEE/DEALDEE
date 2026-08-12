@@ -3,19 +3,19 @@
   "rewrites": [
     {
       "source": "/b/:path*",
-      "destination": "https://b-dealdee.vercel.app/b/:path*"
+      "destination": "/DEALDEE/b/:path*"
     },
     {
       "source": "/a/:path*",
-      "destination": "https://a-dealdee.vercel.app/a/:path*"
+      "destination": "/DEALDEE/a/:path*"
     },
     {
       "source": "/home/:path*",
-      "destination": "https://home-dealdee.vercel.app/home/:path*"
+      "destination": "/DEALDEE/home/:path*"
     },
     {
       "source": "/",
-      "destination": "https://home-dealdee.vercel.app/"
+      "destination": "/DEALDEE/home/index.html"
     }
   ]
 }
