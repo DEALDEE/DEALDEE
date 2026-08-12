@@ -1,8 +1,22 @@
+
 {
   "rewrites": [
-    { "source": "/a/:path*", "destination": "/DEALDEE/a/:path*" },
-    { "source": "/b/:path*", "destination": "/DEALDEE/b/:path*" },
-    { "source": "/home/:path*", "destination": "/DEALDEE/home/:path*" },
-    { "source": "/", "destination": "/index.html" }
+    {
+      "source": "/b/:path*",
+      "destination": "https://b-topaz-two.vercel.app/b/:path*"
+    },
+    {
+      "source": "/a/:path*",
+      "destination": "https://dealdee1.vercel.app/a/:path*"
+    },
+    {
+      "source": "/home/:path*",
+      "destination": "https://dealdeecar.vercel.app/home/:path*"
+    },
+    {
+      "source": "/",
+      "destination": "https://dealdeecar.vercel.app/"
+    }
   ]
 }
+
