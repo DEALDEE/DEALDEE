@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/b/:path*",
-      "destination": "https://dealdee.vercel.app/b/:path*"
+      "destination": "https://b-topaz-two.vercel.app/b/:path*"
     },
     {
       "source": "/a/:path*",
