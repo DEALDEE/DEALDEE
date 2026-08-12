@@ -13,9 +13,5 @@
       "source": "/home/:path*",
       "destination": "https://dealdeecar.vercel.app/home/:path*"
     },
-    {
-      "source": "/",
-      "destination": "https://dealdeecar.vercel.app/"
-    }
   ]
 }
