@@ -13,5 +13,9 @@
       "source": "/home/:path*",
       "destination": "https://home-dealdee.vercel.app/home/:path*"
     },
+    {
+      "source": "/",
+      "destination": "https://home-dealdee.vercel.app/"
+    }
   ]
 }
