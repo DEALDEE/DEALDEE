@@ -11,11 +11,11 @@
     },
     {
       "source": "/home/:path*",
-      "destination": "https:/deald.vercel.app/home/:path*"
+      "destination": "https://deald.vercel.app/home/:path*"
     },
     {
       "source": "/",
-      "destination": "https://deald.vercel.app/"
+      "destination": "https://dealdeecar.vercel.app/"
     }
   ]
 }
