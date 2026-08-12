@@ -3,15 +3,15 @@
   "rewrites": [
     {
       "source": "/b/:path*",
-      "destination": "https://b-hazel-one.vercel.app/b/:path*"
+      "destination": "https://b-dealdee.vercel.app/b/:path*"
     },
     {
       "source": "/a/:path*",
-      "destination": "https://a-nine-eta-13.vercel.app/a/:path*"
+      "destination": "https://a-dealdee.vercel.app/a/:path*"
     },
     {
       "source": "/home/:path*",
-      "destination": "https://home-zeta-livid-87.vercel.app/home/:path*"
+      "destination": "https://home-dealdee.vercel.app/home/:path*"
     },
   ]
 }
